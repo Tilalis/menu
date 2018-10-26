@@ -35,7 +35,7 @@ def createdb():
         calories=255,
         price=8.95,
         name="Russian Pizza",
-        description="There is no russian in margarita with russian dressing and you know it.",
+        description="There is nothing russian in Margarita with russian dressing and you know it.",
         modifiers=[russian_dressing, cheese]
     )
 
